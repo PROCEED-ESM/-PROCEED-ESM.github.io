@@ -33,6 +33,6 @@ jobs:
         with:
           FOLDER: _build/html # The folder the action should deploy.
           CLEAN: false # Automatically remove deleted files from the deploy branch
-          TARGET_FOLDER: docs
+          TARGET-FOLDER: docs
      
         
